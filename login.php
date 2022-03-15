@@ -28,7 +28,7 @@
 
         if(count($results) > 0 && password_verify($_POST['password'], $results['password'])) {
             $_SESSION['user_id'] = $results['id'];
-            header('Location: /diseñoweb');  //ruta inicial de la aplicación 
+            header('Location: /zorobabelpag');  //ruta inicial de la aplicación 
         } else {
             $message= 'El usuario o la contraseña no coinciden';
         }

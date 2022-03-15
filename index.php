@@ -7,7 +7,7 @@
         <meta name="description" content="Descripción de la empresa ZOROBABEL">
         <meta name="author" content="Alejandro Enríquez">
         <meta name="robots" content="index">
-        <link rel="icon" href="../diseñoweb/img/logo.png">
+        <link rel="icon" href="../zorobabelpag/img/logo.png">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">   
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <script src="archivo.js"></script>
@@ -94,18 +94,18 @@ include 'templates/cabecera.php';
         <div>    
             <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12">
                 <div class="row">
-                    <div class="col-md-6 col-lg-4 col-sm-6 col-xs-6"><img src="../diseñoweb/img/estilos/redondo5.jpg"><h3>Camiseta cuello redondo</h3><h3>$32.500 COP</h3></div>
-                    <div class="col-md-6 col-lg-4 col-sm-6 col-xs-6"><img src="../diseñoweb/img/estilos/militar3.jpg"><h3>Camiseta cuello militar</h3><h3>$45.000 COP</h3></div>
-                    <div class="col-md-6 col-lg-4 col-sm-12 col-xs-12"><img src="../diseñoweb/img/estilos/pololineas1.jpg"><h3>Camiseta tipo polos líneas</h3><h3>$45.000 COP</h3></div>
+                    <div class="col-md-6 col-lg-4 col-sm-6 col-xs-6"><img src="../zorobabelpag/img/estilos/redondo5.jpg"><h3>Camiseta cuello redondo</h3><h3>$32.500 COP</h3></div>
+                    <div class="col-md-6 col-lg-4 col-sm-6 col-xs-6"><img src="../zorobabelpag/img/estilos/militar3.jpg"><h3>Camiseta cuello militar</h3><h3>$45.000 COP</h3></div>
+                    <div class="col-md-6 col-lg-4 col-sm-12 col-xs-12"><img src="../zorobabelpag/img/estilos/pololineas1.jpg"><h3>Camiseta tipo polos líneas</h3><h3>$45.000 COP</h3></div>
                 </div>    
             </div>
         </div>
         <div>    
             <div class="col-md-12 col-lg-12 col-sm-6 col-xs-12">
                 <div class="row">
-                    <div class="col-md-6 col-lg-4 col-sm-12 col-xs-12"><img src="../diseñoweb/img/estilos/polo2.jpg"><h3>Camiseta tipo polo</h3><h3>$45.000 COP</h3></div>
-                    <div class="col-md-6 col-lg-4 col-sm-12 col-xs-12"><img src="../diseñoweb/img/estilos/cpolo2.jpg"><h3>Camibuso tipo polo Equal</h3><h3>$49.000 COP</h3></div>
-                    <div class="col-md-12 col-lg-4 col-sm-12 col-xs-12"><img src="../diseñoweb/img/estilos/cmilitar1.jpg"><h3>Camibuso cuello militar</h3><h3>$49.000 COP</h3></div>
+                    <div class="col-md-6 col-lg-4 col-sm-12 col-xs-12"><img src="../zorobabelpag/img/estilos/polo2.jpg"><h3>Camiseta tipo polo</h3><h3>$45.000 COP</h3></div>
+                    <div class="col-md-6 col-lg-4 col-sm-12 col-xs-12"><img src="../zorobabelpag/img/estilos/cpolo2.jpg"><h3>Camibuso tipo polo Equal</h3><h3>$49.000 COP</h3></div>
+                    <div class="col-md-12 col-lg-4 col-sm-12 col-xs-12"><img src="../zorobabelpag/img/estilos/cmilitar1.jpg"><h3>Camibuso cuello militar</h3><h3>$49.000 COP</h3></div>
                 </div>    
             </div>
         </div>
@@ -113,15 +113,15 @@ include 'templates/cabecera.php';
         <div class="row">
             <div class="col-md-3 col-lg-3 col-sm-12 col-xs-12">
                 <div class="row">
-                    <div class="col-md-12 col-lg-12 col-sm-6 col-xs-12"><img src="../diseñoweb/img/doblado/doblado1.jpg"><h4>Camiseta equal</h4></div>
-                    <div class="col-md-12 col-lg-12 col-sm-6 col-xs-12"><img src="../diseñoweb/img/doblado/doblado2.jpg"><h4>Cuello redondo</h4></div>
+                    <div class="col-md-12 col-lg-12 col-sm-6 col-xs-12"><img src="../zorobabelpag/img/doblado/doblado1.jpg"><h4>Camiseta equal</h4></div>
+                    <div class="col-md-12 col-lg-12 col-sm-6 col-xs-12"><img src="../zorobabelpag/img/doblado/doblado2.jpg"><h4>Cuello redondo</h4></div>
                 </div>
             </div>
-            <div class="col-md-6 col-lg-6 col-sm-12 col-xs-12 imagencentrada"><img src="../diseñoweb/img/estilos/militar6.jpg"></div>    
+            <div class="col-md-6 col-lg-6 col-sm-12 col-xs-12 imagencentrada"><img src="../zorobabelpag/img/estilos/militar6.jpg"></div>    
             <div class="col-md-3 col-lg-3 col-sm-12 col-xs-12">
                 <div class="row">
-                    <div class="col-md-12 col-lg-12 col-sm-6 col-xs-12"><img src="../diseñoweb/img/doblado/doblado3.jpg"><h4>Cuello militar</h4></div>
-                    <div class="col-md-12 col-lg-12 col-sm-6 col-xs-12"><img src="../diseñoweb/img/doblado/doblado4.jpg"><h4>Tres colores</h4></div>
+                    <div class="col-md-12 col-lg-12 col-sm-6 col-xs-12"><img src="../zorobabelpag/img/doblado/doblado3.jpg"><h4>Cuello militar</h4></div>
+                    <div class="col-md-12 col-lg-12 col-sm-6 col-xs-12"><img src="../zorobabelpag/img/doblado/doblado4.jpg"><h4>Tres colores</h4></div>
                 </div>
             </div>
         </div>
