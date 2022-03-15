@@ -194,16 +194,16 @@ header  {
 }
 @keyframes banner {
     0%, 20%{
-        background-image: url(../diseñoweb/img/banner/banner1.jpg);
+        background-image: url(../zorobabelpag/img/banner/banner1.jpg);
     }
     25%, 45%{
-        background-image: url(../diseñoweb/img/banner/banner2.jpg);
+        background-image: url(../zorobabelpag/img/banner/banner2.jpg);
     }
     50%, 70%{
-        background-image: url(../diseñoweb/img/banner/banner3.jpg);
+        background-image: url(../zorobabelpag/img/banner/banner3.jpg);
     }
     75%, 100%{
-        background-image: url(../diseñoweb/img/banner/banner4.jpg);
+        background-image: url(../zorobabelpag/img/banner/banner4.jpg);
     }
 }
 

@@ -11,7 +11,7 @@
     <meta name="description" content="Descripción de la empresa ZOROBABEL">
     <meta name="author" content="Alejandro Enríquez">
     <meta name="robots" content="index">
-    <link rel="icon" href="../diseñoweb/img/logo.png">
+    <link rel="icon" href="../zorobabelpag/img/logo.png">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">   
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <script src="archivo.js"></script>
@@ -37,7 +37,7 @@
                 </div>  
                 <div class="barramenu">
                     <input  type="checkbox" id="btn-menu">
-                    <label for="btn-menu"><img src="../diseñoweb/img/menu.png">
+                    <label for="btn-menu"><img src="../zorobabelpag/img/menu.png">
                     </label>
                     <nav class="menu">
                         <ul>
