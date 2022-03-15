@@ -23,6 +23,7 @@ include 'templates/cabecera.php';
 
         <div class="row">
         <?php
+            //
             $sentencia=$pdo->prepare("SELECT * FROM `tblproductos`");
             $sentencia->execute();
             $listaProductos=$sentencia->fetchAll(PDO::FETCH_ASSOC);
